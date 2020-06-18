@@ -1,0 +1,46 @@
+/* div *{
+    background-color: pink;
+} */
+
+/* * {
+    background-color: #d3d3d3;
+}
+
+
+p {
+   
+    color: red;
+}
+
+p.error {
+    color: blue;
+}
+
+p.p1{
+    color: rgb(82, 82, 82);
+}
+
+p.p2.feedback{
+    color: green;
+    border-width: 2px;
+    border-style: solid;
+    border: gold;
+    border: 2px solid gold ;
+}
+
+#container{
+    background-color: aquamarine;
+} */
+
+#container > p span {
+    font-weight: bold;
+}
+
+a[href="www.google.com"]{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+a:hover{
+    color: pink;
+}
